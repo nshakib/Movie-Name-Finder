@@ -1,0 +1,33 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.bg
+{
+	background-image: url(../img/bg3.jpeg);
+	background-color: rgba(0,0,0,.7);
+	/*background-color: #cac2ff;*/
+	border: 5px solid #ffffff!important;
+}
+.overlay
+{
+	background-color: rgba(0,0,0,0.4);
+	background-size: cover;
+}
+.movie_name
+{
+	color: #ffffff;
+}
+.table>thead>tr>th
+{
+	color:#ffffff!important;
+	font-weight: bold;
+	font-size: 15px;
+}
+.ng-scope
+{
+	font-weight: bold;
+	color: #ffffff;
+}
